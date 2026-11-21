@@ -22,6 +22,13 @@ tp7-crud/
 ├── formations/ (index, create, edit, delete)
 ├── etudiants/ (index, create, edit, delete)
 └── modules/ (index, create, edit, delete)
+
+
+
+
+
+
+
 Tests: 
 **Ajout d'un enregistrement:
 | | |
