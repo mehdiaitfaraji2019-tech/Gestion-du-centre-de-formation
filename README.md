@@ -27,8 +27,6 @@ Tests:
 | | |
 |:---:|:---:|
 | <img src="https://github.com/user-attachments/assets/1e4252f8-402d-4365-a706-2deb0a74398c" width="100%"/> | <img src="https://github.com/user-attachments/assets/4915e7db-50b8-46c2-a134-462a07565e57" width="100%"/> |
-| **Activité 1** | **Activité 2** |
 | <img src="https://github.com/user-attachments/assets/97a68083-6b9e-44b7-837c-2a7cab62b1a0" width="100%"/> | |
-| **Activité 3** | |
 
 
