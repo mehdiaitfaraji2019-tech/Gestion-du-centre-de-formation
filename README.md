@@ -22,3 +22,11 @@ tp7-crud/
 ├── formations/ (index, create, edit, delete)
 ├── etudiants/ (index, create, edit, delete)
 └── modules/ (index, create, edit, delete)
+Tests: 
+**Ajout d'un enregistrement:
+<img width="613" height="386" alt="image" src="https://github.com/user-attachments/assets/1e4252f8-402d-4365-a706-2deb0a74398c" />
+<img width="805" height="447" alt="image" src="https://github.com/user-attachments/assets/4915e7db-50b8-46c2-a134-462a07565e57" />
+<img width="622" height="154" alt="image" src="https://github.com/user-attachments/assets/97a68083-6b9e-44b7-837c-2a7cab62b1a0" />
+
+
+
