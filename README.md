@@ -9,6 +9,8 @@ Phase de conception:
 Table de "formations": id, nom, duree_mois 
 Table de "etudiants": id, nom, prenom, email, formation_id → formations.id 
 Table de modules: id, titre, volume_heures, formation_id → formations.id 
+<img width="3200" height="1800" alt="schema_formations_etudiants_modules" src="https://github.com/user-attachments/assets/2cfcafcd-0813-43ea-8871-66eab24afd7a" />
+
 
 Structure:
 
