@@ -4,15 +4,18 @@ Petite application Web de gestion d'un **centre de formation** (formations, étu
 
 Un centre propose plusieurs formations. Chaque étudiant est rattaché à une seule formation, et chaque formation contient plusieurs modules.
 
-Phase de conception:
+**Phase de conception:
 
 Table de "formations": id, nom, duree_mois 
+
 Table de "etudiants": id, nom, prenom, email, formation_id → formations.id 
+
 Table de modules: id, titre, volume_heures, formation_id → formations.id 
+
 <img width="3200" height="1800" alt="schema_formations_etudiants_modules" src="https://github.com/user-attachments/assets/2cfcafcd-0813-43ea-8871-66eab24afd7a" />
 
 
-Structure:
+**Structure:
 
 tp7-crud/
 ├── style.css
@@ -29,7 +32,7 @@ tp7-crud/
 
 
 
-Tests: 
+**Tests: 
 ## Ajout d'un enregistrement
 
 | | |
@@ -50,10 +53,6 @@ Tests:
 |:---:|:---:|
 | <img src="https://github.com/user-attachments/assets/2fbff783-4518-42cb-ad2d-909928092ba1" width="100%"/> | |
 | <img src="https://github.com/user-attachments/assets/3fbc4bc3-f23f-430f-8d92-94b802606f7e" width="100%"/> | |
-
-
-
-
 
 
 
