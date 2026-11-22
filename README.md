@@ -43,10 +43,14 @@ tp7-crud/
 
 ## Modification d'un enregistrement
 
-| | |
+| <img width="833" height="188" alt="image" src="https://github.com/user-attachments/assets/5a4310ef-a841-4dfc-a4e3-7f086aaced9d" />
+| <img width="598" height="562" alt="image" src="https://github.com/user-attachments/assets/a273be13-c2ac-43c4-9627-9c98cc85a3f6" />
+|
 |:---:|:---:|
-| <img src="https://github.com/user-attachments/assets/5f664ef6-48cd-4412-b15c-e73496a50b33" width="100%"/> | <img src="https://github.com/user-attachments/assets/f40862e1-2ff8-4c11-aab5-08335a7ed032" width="100%"/> |
-| <img src="https://github.com/user-attachments/assets/e53d9abd-bc7f-4520-ab17-bad73f840c1e" width="100%"/> | <img src="https://github.com/user-attachments/assets/28ef88f3-77c9-4378-b4d9-50510f21be0d" width="100%"/> |
+| <img width="874" height="534" alt="Capture d&#39;écran 2026-11-22 172712" src="https://github.com/user-attachments/assets/0ebe52b6-27bc-46a9-b1e5-87e4da0f5b8c" />
+| <img width="824" height="222" alt="Capture d&#39;écran 2026-11-22 172720" src="https://github.com/user-attachments/assets/da6b5a6f-05ab-4eac-b33b-8e4a03c6c7cc" />
+ |
+|  |  |
 
 ## Suppression d'un enregistrement
 
