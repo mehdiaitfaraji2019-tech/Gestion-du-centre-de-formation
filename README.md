@@ -1,4 +1,4 @@
-######TP7 — CRUD multi-entités PHP / PDO / MySQL#####
+######TP7 — PHP / PDO / MySQL######
 
 Petite application Web de gestion d'un **centre de formation** (formations, étudiants, modules) réalisée en **PHP + PDO + MySQL**.
 
@@ -42,6 +42,16 @@ Tests:
 |  <img src="https://github.com/user-attachments/assets/5f664ef6-48cd-4412-b15c-e73496a50b33" width="100%" /> | <img src="https://github.com/user-attachments/assets/f40862e1-2ff8-4c11-aab5-08335a7ed032" width="100%" /> |
 |  <img src="https://github.com/user-attachments/assets/e53d9abd-bc7f-4520-ab17-bad73f840c1e" width="100%"/> |
 | <img src="https://github.com/user-attachments/assets/28ef88f3-77c9-4378-b4d9-50510f21be0d" width="100%"/>|
+
+**Suppression d'un enregistrement:
+| | |
+|:---:|:---:|
+|  <img src="https://github.com/user-attachments/assets/2fbff783-4518-42cb-ad2d-909928092ba1" width="100%" />|
+|  <img src="https://github.com/user-attachments/assets/3fbc4bc3-f23f-430f-8d92-94b802606f7e" width="100%" /> |
+
+
+
+
 
 
 
