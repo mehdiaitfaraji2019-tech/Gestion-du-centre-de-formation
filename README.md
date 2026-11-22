@@ -34,6 +34,17 @@ Tests:
 | | |
 |:---:|:---:|
 | <img src="https://github.com/user-attachments/assets/1e4252f8-402d-4365-a706-2deb0a74398c" width="100%"/> | <img src="https://github.com/user-attachments/assets/4915e7db-50b8-46c2-a134-462a07565e57" width="100%"/> |
-| <img src="https://github.com/user-attachments/assets/97a68083-6b9e-44b7-837c-2a7cab62b1a0" width="100%"/> | |
+| <img src="https://github.com/user-attachments/assets/97a68083-6b9e-44b7-837c-2a7cab62b1a0" width="100%"/> | 
+
+**Modification d'un enregistrement:
+| | |
+|:---:|:---:|
+|  <img src="https://github.com/user-attachments/assets/5f664ef6-48cd-4412-b15c-e73496a50b33" width="100%" /> | <img src="https://github.com/user-attachments/assets/f40862e1-2ff8-4c11-aab5-08335a7ed032" width="100%" /> |
+|  <img src="https://github.com/user-attachments/assets/e53d9abd-bc7f-4520-ab17-bad73f840c1e" width="100%"/> |
+| <img src="https://github.com/user-attachments/assets/28ef88f3-77c9-4378-b4d9-50510f21be0d" width="100%"/>|
+
+
+
+
 
 
